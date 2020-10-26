@@ -1,0 +1,3 @@
+# Server-Hosting-Website
+Its for those who want to start hosting server...
+You can edit the all things in index.html file...Just test this website locally or visiting this site https://example-server-hosting.glitch.me/
