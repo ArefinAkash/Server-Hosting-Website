@@ -1,1 +1,52 @@
 
+html{
+  background-image: url('http://cakie.de/onewebmedia/12771821_429625677248251_7456166847252003761_o.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#wrapper{
+ width: 80%;
+  margin: 0 auto;  
+}
+
+.fancygrow{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 30px;
+  width: 100%;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#002c44+0,0083c9+100 */
+background: #002c44; /* Old browsers */
+background: -moz-linear-gradient(45deg, #002c44 0%, #0083c9 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #002c44 0%,#0083c9 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #002c44 0%,#0083c9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002c44', endColorstr='#0083c9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  display: block;
+  text-align: center;
+  max-width: 400px;
+  height: 50px;
+  line-height: 50px;
+  margin: 25px auto;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+border: 0px solid #000000;
+   -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.fancygrow:hover{
+-webkit-box-shadow: 0px 14px 23px -10px rgba(0,44,68,0.56);
+-moz-box-shadow: 0px 14px 23px -10px rgba(0,44,68,0.56);
+box-shadow: 0px 14px 23px -10px rgba(0,44,68,0.56);
+ 
+  transform: scale(1.050, 1.050);
+-webkit-transform: scale(1.050, 1.050);
+-moz-transform: scale(1.050, 1.050);
+-o-transform: scale(1.050, 1.050);
+-ms-transform: scale(1.050, 1.050);
+}
